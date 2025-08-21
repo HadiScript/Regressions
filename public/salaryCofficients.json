@@ -1,0 +1,156 @@
+{
+  "intercept": 31887.328673147596,
+  "slopes": [
+    -119.4200970149468,
+    2259.8662542911993
+  ],
+  "r2": 0.9702393742412492,
+  "trainData": [
+    {
+      "age": 25,
+      "experience": 1,
+      "income": 30450
+    },
+    {
+      "age": 30,
+      "experience": 3,
+      "income": 35670
+    },
+    {
+      "age": 47,
+      "experience": 2,
+      "income": 31580
+    },
+    {
+      "age": 32,
+      "experience": 5,
+      "income": 40130
+    },
+    {
+      "age": 43,
+      "experience": 10,
+      "income": 47830
+    },
+    {
+      "age": 51,
+      "experience": 7,
+      "income": 41630
+    },
+    {
+      "age": 28,
+      "experience": 5,
+      "income": 41340
+    },
+    {
+      "age": 33,
+      "experience": 4,
+      "income": 37650
+    },
+    {
+      "age": 37,
+      "experience": 5,
+      "income": 40250
+    },
+    {
+      "age": 39,
+      "experience": 8,
+      "income": 45150
+    },
+    {
+      "age": 29,
+      "experience": 1,
+      "income": 27840
+    },
+    {
+      "age": 47,
+      "experience": 9,
+      "income": 46110
+    },
+    {
+      "age": 54,
+      "experience": 5,
+      "income": 36720
+    },
+    {
+      "age": 51,
+      "experience": 4,
+      "income": 34800
+    }
+  ],
+  "testData": [
+    {
+      "age": 44,
+      "experience": 12,
+      "income": 51300
+    },
+    {
+      "age": 41,
+      "experience": 6,
+      "income": 38900
+    },
+    {
+      "age": 58,
+      "experience": 17,
+      "income": 63600
+    },
+    {
+      "age": 23,
+      "experience": 1,
+      "income": 30870
+    },
+    {
+      "age": 44,
+      "experience": 9,
+      "income": 44190
+    },
+    {
+      "age": 37,
+      "experience": 10,
+      "income": 48700
+    }
+  ],
+  "predictions": [
+    {
+      "age": 44,
+      "experience": 12,
+      "income": [
+        53751.23945598433
+      ]
+    },
+    {
+      "age": 41,
+      "experience": 6,
+      "income": [
+        40550.30222128198
+      ]
+    },
+    {
+      "age": 58,
+      "experience": 17,
+      "income": [
+        63378.68936923107
+      ]
+    },
+    {
+      "age": 23,
+      "experience": 1,
+      "income": [
+        31400.53269609502
+      ]
+    },
+    {
+      "age": 44,
+      "experience": 9,
+      "income": [
+        46971.640693110734
+      ]
+    },
+    {
+      "age": 37,
+      "experience": 10,
+      "income": [
+        50067.44762650656
+      ]
+    }
+  ]
+}
